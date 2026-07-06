@@ -97,8 +97,13 @@ python main.py
 ---
 
 ## 📸 Screenshots
+<img width="1277" height="754" alt="brightness-control py" src="https://github.com/user-attachments/assets/a523399d-5930-4a6e-947e-406e53546f99" />
+<img width="1808" height="943" alt="website-launcher py" src="https://github.com/user-attachments/assets/1528785a-7054-4ef1-a9ef-ac62f0648c91" />
+<img width="1274" height="757" alt="volume-control py" src="https://github.com/user-attachments/assets/92f1a96c-d79a-464b-b18e-debccdf8af1a" />
+<img width="1324" height="777" alt="screenshot-control py" src="https://github.com/user-attachments/assets/ffe83205-c3e0-4697-beea-aad035ac2365" />
+<img width="1292" height="849" alt="mouse-controller png" src="https://github.com/user-attachments/assets/217bf7ad-539b-40af-87a3-066962a45e7d" />
+<img width="1301" height="925" alt="home png" src="https://github.com/user-attachments/assets/577d48d9-0ee9-4c66-80c5-9a01e8a4a2f5" />
 
-> *(Add screenshots here later.)*
 
 ---
 
