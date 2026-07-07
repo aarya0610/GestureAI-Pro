@@ -97,6 +97,18 @@ python main.py
 ---
 
 ## 📸 Screenshots
+<img width="1324" height="777" alt="screenshot-control pngg" src="https://github.com/user-attachments/assets/7c243a79-c74c-4f7c-b193-853a75a8b4d2" />
+<img width="1274" height="757" alt="volume-control pngg" src="https://github.com/user-attachments/assets/6e438828-4f81-4f69-9d19-56d9a3218b6a" />
+<img width="1292" height="849" alt="mouse-controller pngg" src="https://github.com/user-attachments/assets/b60cc21b-5fe9-45d1-9e32-d3875f58bed4" />
+<img width="1808" height="943" alt="website-launcher pngg" src="https://github.com/user-attachments/assets/2c579ab3-807f-4e33-9a6c-0151986cfddd" />
+<img width="1301" height="925" alt="home pngg" src="https://github.com/user-attachments/assets/943916dd-4c6e-4ce9-bc53-1e45a157dde7" />
+<img width="1277" height="754" alt="brightness-control png" src="https://github.com/user-attachments/assets/3e868299-99fd-4932-b506-83870395875c" />
+
+
+
+
+
+
 
 
 
